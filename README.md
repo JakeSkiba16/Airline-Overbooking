@@ -1,5 +1,6 @@
 # Airline Overbooking Analysis 
-**Collaborator:** Zach Skiba [@ZachSkiba] (https://github.com/ZachSkiba)
+**Collaborator(s):** Zach Skiba [@ZachSkiba] (https://github.com/ZachSkiba), Paul Balea
+**Supervisor**: Professor Hemanshu Kaul, PhD Mathematics
 
 ## Project Summary
 This project analyzes airline overbooking strategies to maximize revenue while considering the complex interplay of factors such as passenger compensation, customer loyalty, and flight characteristics. The primary goal was to develop mathematical models to determine optimal overbooking rates for both domestic and international flights, aiming to enhance airline profitability. The analysis delves into compensation strategies for bumped passengers, models potential revenue under various overbooking scenarios, and assesses the impact on overall profit.
