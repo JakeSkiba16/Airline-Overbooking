@@ -1,5 +1,6 @@
 # Airline Overbooking Analysis 
 **Collaborator(s):** Zach Skiba [@ZachSkiba] (https://github.com/ZachSkiba), Paul Balea
+
 **Supervisor**: Professor Hemanshu Kaul, PhD Mathematics
 
 ## Project Summary
